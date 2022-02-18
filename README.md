@@ -1,2 +1,2 @@
 # sipacenv
-Test enviroment for SIPAC 3.
+# Test enviroment for SIPAC 3.
