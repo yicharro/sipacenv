@@ -1,2 +1,1 @@
-# Test enviroment for SIPAC 3.
-#### asdasdadasdasd
+# Test env for SIPAC v3.
